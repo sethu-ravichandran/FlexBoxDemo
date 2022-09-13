@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+
+.container{
+    border: 8px solid #000;
+}
+
+.flex-box-item
+{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+.item1{
+    background-color: brown;
+    
+}
+
+.item2{
+    background-color:aqua;
+    
+}
+
+.item3{
+    background-color: red;
+    
+}
+
+.item4{
+    background-color: olivedrab;
+    
+}
+
+.item5{
+    background-color: orange;
+    
+}
+
+.item6{
+    background-color: magenta;
+}
+
+.item7{
+    background-color: navy;
+}
+
+.item8{
+    background-color: salmon;
+}
+
+.item9{
+    background-color: saddlebrown;
+}
